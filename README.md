@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain and AI Agents Automation , AI<br>👯 I’m looking to collaborate on AI Agents<br>🤝 I’m looking for help with AI Video Generation<br>🌱 I’m currently learning Blockchain<br>
+🔭 I’m currently working on Blockchain and AI Agents Automation <br>👯 I’m looking to collaborate on AI Agents<br>🤝 I’m looking for help with AI Video Generation<br>🌱 I’m currently learning Blockchain<br>
 
 
 ## 🌐 Socials:
